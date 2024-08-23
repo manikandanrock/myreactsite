@@ -1,0 +1,23 @@
+
+.headerBar{
+    background-color:red;
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.navBarLogo{
+    background-color: #fff;
+    color: #0a7285;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.searchBar{
+    width:"300px";
+}
